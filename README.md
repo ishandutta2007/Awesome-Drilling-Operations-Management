@@ -52,7 +52,7 @@ Below is a comparison of top enterprise Drilling Operations Management platforms
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source libraries, web applications, and analytics servers for petroleum engineers and software developers, **sorted by GitHub Stars_Count (descending)**.
+Curated open-source libraries, web applications, and analytics servers for petroleum engineers and software developers, **sorted by GitHub_Stars_Count (descending)**.
 
 | Project | GitHub_Stars | Primary Language / Stack | Key Features & Focus Area |
 | :--- | :--- | :--- | :--- |
