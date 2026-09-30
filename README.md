@@ -52,9 +52,9 @@ Below is a comparison of top enterprise Drilling Operations Management platforms
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source libraries, web applications, and analytics servers for petroleum engineers and software developers, **sorted by GitHub star count (descending)**.
+Curated open-source libraries, web applications, and analytics servers for petroleum engineers and software developers, **sorted by GitHub Stars_Count (descending)**.
 
-| Project | GitHub Stars | Primary Language / Stack | Key Features & Focus Area |
+| Project | GitHub_Stars | Primary Language / Stack | Key Features & Focus Area |
 | :--- | :--- | :--- | :--- |
 | **[welleng](https://github.com/jonnymaserati/welleng)** | [![Stars](https://img.shields.io/github/stars/jonnymaserati/welleng?style=social&color=white)](https://github.com/jonnymaserati/welleng/stargazers) | Python | Comprehensive well trajectory engineering library featuring survey management, ISCWSA well paths, Mahalanobis collision detection, kick-tolerance engine, and tortuosity calculations. |
 | **[well_profile](https://github.com/pro-well-plan/well_profile)** | [![Stars](https://img.shields.io/github/stars/pro-well-plan/well_profile?style=social&color=white)](https://github.com/pro-well-plan/well_profile/stargazers) | Python | Trajectory planning tool for quick directional survey calculations, 3D trajectory plotting, and integration with torque/drag (`torque_drag`) and thermal models (`pwptemp`). |
@@ -85,7 +85,7 @@ When building or deploying software in drilling operations, compliance with indu
 
 1. Fork the repository 🍴
 2. Add or update SaaS products or Open-Source projects in `README.md` 📝
-3. Follow formatting conventions (tables, star badges linking to `/stargazers`, factual details) ✨
+3. Follow formatting conventions (tables, Stars_Badges linking to `/stargazers`, factual details) ✨
 4. Submit a Pull Request with a short summary of changes 🚀
 
 ---
@@ -110,3 +110,12 @@ Your support helps keep open-source energy engineering curated and up to date! �
 ## ⚠️ Disclaimer
 
 This repository is a community-curated collection for educational and architectural research purposes. Product names, logos, and brands belong to their respective owners. Self-hosted drilling software and directional calculations must be independently validated prior to field operations.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Drilling-Operations-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Drilling-Operations-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Drilling-Operations-Management_growth.svg">
+  </picture>
+</a>
